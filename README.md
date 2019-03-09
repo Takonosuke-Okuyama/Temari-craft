@@ -23,4 +23,4 @@
 このコロネをほどくと大きな輪っかになります。  
 この輪っかを崩さずに糸をほどいて、紙筒に巻いていきましょう。  
 これを意識せずにほどくと糸が絡まり大変なことになります。  
-![絹糸のほどき方](https://github.com/Masaki-Okuyama/Temari-craft/blob/images/temari_kinuito_hodoki.jpg)
+![絹糸のほどき方](https://github.com/Masaki-Okuyama/Temari-craft/blob/images/kinuito_hodokikata.jpg)
