@@ -2,7 +2,7 @@
 手毬キットを使って手毬を作ります。
 ## 目次
 - [制作手毬一覧](https://github.com/Masaki-Okuyama/Temari-craft/blob/master/README.md#%E5%88%B6%E4%BD%9C%E6%89%8B%E6%AF%AC%E4%B8%80%E8%A6%A7)  
-- [このリポジトリの読み方]()  
+- [このリポジトリの読み方](https://github.com/Masaki-Okuyama/Temari-craft#%E3%81%93%E3%81%AE%E3%83%AA%E3%83%9D%E3%82%B8%E3%83%88%E3%83%AA%E3%81%AE%E8%AA%AD%E3%81%BF%E6%96%B9)  
 - [手毬キット選び](https://github.com/Masaki-Okuyama/Temari-craft/blob/master/README.md#%E6%89%8B%E6%AF%AC%E3%82%AD%E3%83%83%E3%83%88%E9%81%B8%E3%81%B3)  
 - [手毬キット以外に必要なもの](https://github.com/Masaki-Okuyama/Temari-craft/blob/master/README.md#%E6%89%8B%E6%AF%AC%E3%82%AD%E3%83%83%E3%83%88%E4%BB%A5%E5%A4%96%E3%81%AB%E5%BF%85%E8%A6%81%E3%81%AA%E3%82%82%E3%81%AE)  
 - [糸の紙筒への巻き方](https://github.com/Masaki-Okuyama/Temari-craft/blob/master/README.md#%E7%B3%B8%E3%81%AE%E7%B4%99%E7%AD%92%E3%81%B8%E3%81%AE%E5%B7%BB%E3%81%8D%E6%96%B9)  
