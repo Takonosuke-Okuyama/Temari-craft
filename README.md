@@ -1,10 +1,12 @@
 # Temari-craft
 手毬キットを使って手毬を作ります。
+## 目次
+- [制作手毬一覧](https://github.com/Masaki-Okuyama/Temari-craft/blob/master/README.md#%E5%88%B6%E4%BD%9C%E6%89%8B%E6%AF%AC%E4%B8%80%E8%A6%A7)
 
 ## 制作手毬一覧
 |        手毬         |  制作開始日  | 制作終了日 |
 |:--------------------|:------------:|:----------:|
-|[三羽根亀甲           ](https://github.com/Masaki-Okuyama/Temari-craft/blob/master/1st-kemari-craft.md)|  8-Mar-2019 |            |
+|[三羽根亀甲](https://github.com/Masaki-Okuyama/Temari-craft/blob/master/1st-kemari-craft.md)|  8-Mar-2019 |            |
 
 ## 手毬キット選び
 自分が作りたいと思う好きな柄の手毬キットを買いましょう。
