@@ -11,6 +11,7 @@
 制作した手毬が見たい方は[制作手毬一覧](https://github.com/Masaki-Okuyama/Temari-craft/blob/master/README.md#%E5%88%B6%E4%BD%9C%E6%89%8B%E6%AF%AC%E4%B8%80%E8%A6%A7)の手毬の名前のリンクから飛んでください。  
 各手毬の詳細、購入へのリンクは各手毬のページに貼ってあります。  
 手毬のページは最終更新日が先頭になっているので、時系列順に追いたい人は下から読んでください。  
+用語は[wiki](https://github.com/Masaki-Okuyama/Temari-craft/wiki#%E6%89%8B%E6%AF%AC%E3%81%A5%E3%81%8F%E3%82%8A%E3%81%AEwiki)を参照してください。
 
 ## 制作手毬一覧
 |        手毬         |  制作開始日  | 制作終了日 |
