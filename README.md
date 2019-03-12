@@ -14,9 +14,9 @@
 用語は[wiki](https://github.com/Masaki-Okuyama/Temari-craft/wiki)を参照してください。(要望があればwiki項目は増やします)
 
 ## 制作手毬一覧
-|        手毬         |  制作開始日  | 制作終了日 |
-|:--------------------|:------------:|:----------:|
-|[三羽根亀甲](https://github.com/Masaki-Okuyama/Temari-craft/blob/master/1st-kemari-craft.md)|  8-Mar-2019 |            |
+|   手毬   |  制作開始日  | 制作終了日 |
+|:--------:|:------------:|:----------:|
+|[三羽根亀甲](https://github.com/Masaki-Okuyama/Temari-craft/blob/master/1st-kemari-craft.md)|  8-Mar-2019 |  12-Mar-2019 |
 
 ## 手毬キット選び
 自分が作りたいと思う好きな柄の手毬キットを買いましょう。
