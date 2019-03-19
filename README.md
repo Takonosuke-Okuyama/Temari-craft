@@ -17,7 +17,7 @@
 |   手まり   |  制作開始日  | 制作終了日 |
 |:--------:|:------------:|:----------:|
 |[三羽根亀甲](https://github.com/Masaki-Okuyama/Temari-craft/blob/master/Temari-diary/1st-kemari-craft.md)|  8-Mar-2019 |  12-Mar-2019 |
-|[環つなぎの梅](https://github.com/Masaki-Okuyama/Temari-craft/blob/master/Temari-diary/2nd-temari-craft.md)|   |   |
+|[環つなぎの梅](https://github.com/Masaki-Okuyama/Temari-craft/blob/master/Temari-diary/2nd-temari-craft.md)|  13-Mar-2019 |  12-Mar-2019 |
 
 ## 手まりキット選び
 自分が作りたいと思う好きな柄の手まりキットを買いましょう。
