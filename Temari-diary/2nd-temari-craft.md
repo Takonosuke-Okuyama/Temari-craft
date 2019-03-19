@@ -6,7 +6,7 @@
 ## 完成写真  
 ![kantsunagi](https://github.com/Masaki-Okuyama/Temari-craft/blob/images/kantsunagi.jpg)
 
-## 12-Mar-2019
+## 19-Mar-2019
 環つなぎの模様をさらに大きくし、松の葉と梅の模様を加えて終わり。  
 完成しました!  
 ![20190319](https://github.com/Masaki-Okuyama/Temari-craft/blob/images/20190319.jpg)
