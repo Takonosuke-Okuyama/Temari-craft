@@ -14,7 +14,7 @@
 用語は[wiki](https://github.com/Masaki-Okuyama/Temari-craft/wiki)を参照してください。(要望があればwiki項目は増やします)
 
 ## 制作手まり一覧  
-完成した手まりの画像一覧を見たい人は[こちら](https://github.com/Masaki-Okuyama/Temari-craft/blob/master/Temari-diary/README.md#%E5%AE%8C%E6%88%90%E4%BD%9C%E5%93%81%E4%B8%80%E8%A6%A7)をおしてください  
+完成した手まりの画像一覧を見たい人は[こちら](https://github.com/Masaki-Okuyama/Temari-craft/blob/master/Temari-diary/README.md#%E5%AE%8C%E6%88%90%E4%BD%9C%E5%93%81%E4%B8%80%E8%A6%A7)から  
 
 |   手まり   |  制作開始日  | 制作終了日 |
 |:--------:|:------------:|:----------:|
