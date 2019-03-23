@@ -1,11 +1,11 @@
-# ‚Ü‚·‚©‚ª‚è
-[ƒIƒŠƒ€ƒpƒX»ãN_ƒIƒŠƒWƒiƒ‹è‚Ü‚èƒLƒbƒgƒVƒŠ[ƒY_TM-1](https://www.olympus-thread.com/lineup/handicraftkit/threadball/threadballkit/4971451625011.html/)  
-‚Ì‚Ü‚·‚©‚ª‚è‚ğ‚Â‚­‚è‚Ü‚·B([amazonw“ü‚Í‚±‚¿‚ç](https://www.amazon.co.jp/%E3%82%AA%E3%83%AA%E3%83%A0%E3%83%91%E3%82%B9%E8%A3%BD%E7%B5%B2-Olympus-Thred-TM-1-%E3%81%BE%E3%81%99%E3%81%8B%E3%81%8C%E3%82%8A%E3%83%BB%E5%85%AB%E9%87%8D%E5%92%B2%E3%81%8D%E3%81%AE%E6%A1%83/dp/B002KLRX52))  
-[»ìŠJn’n“_‚Ö](https://github.com/Masaki-Okuyama/Temari-craft/blob/master/Temari-diary/3rd-temari-craft.md#%E4%BD%BF%E7%94%A8%E3%81%99%E3%82%8B%E6%89%8B%E3%81%BE%E3%82%8A%E8%8A%AF)
+# ã¾ã™ã‹ãŒã‚Š
+[ã‚ªãƒªãƒ ãƒ‘ã‚¹è£½çµ²_ã‚ªãƒªã‚¸ãƒŠãƒ«æ‰‹ã¾ã‚Šã‚­ãƒƒãƒˆã‚·ãƒªãƒ¼ã‚º_TM-1](https://www.olympus-thread.com/lineup/handicraftkit/threadball/threadballkit/4971451625011.html/)  
+ã®ã¾ã™ã‹ãŒã‚Šã‚’ã¤ãã‚Šã¾ã™ã€‚([amazonè³¼å…¥ã¯ã“ã¡ã‚‰](https://www.amazon.co.jp/%E3%82%AA%E3%83%AA%E3%83%A0%E3%83%91%E3%82%B9%E8%A3%BD%E7%B5%B2-Olympus-Thred-TM-1-%E3%81%BE%E3%81%99%E3%81%8B%E3%81%8C%E3%82%8A%E3%83%BB%E5%85%AB%E9%87%8D%E5%92%B2%E3%81%8D%E3%81%AE%E6%A1%83/dp/B002KLRX52))  
+[è£½ä½œé–‹å§‹åœ°ç‚¹ã¸](https://github.com/Masaki-Okuyama/Temari-craft/blob/master/Temari-diary/3rd-temari-craft.md#%E4%BD%BF%E7%94%A8%E3%81%99%E3%82%8B%E6%89%8B%E3%81%BE%E3%82%8A%E8%8A%AF)
 
 ## 22-Mar-2019
-1‚Â–Ú‚Ì‚Ü‚·‚Ì¬‚³‚È–Í—l‚Éè‚ğ‚Â‚¯I—¹B  
+1ã¤ç›®ã®ã¾ã™ã®å°ã•ãªæ¨¡æ§˜ã«æ‰‹ã‚’ã¤ã‘çµ‚äº†ã€‚  
 ![20190322](https://github.com/Masaki-Okuyama/Temari-craft/blob/images/20190322.jpg)
 
-## g—p‚·‚éè‚Ü‚èc
+## ä½¿ç”¨ã™ã‚‹æ‰‹ã¾ã‚ŠèŠ¯
 ![3rd_before](https://github.com/Masaki-Okuyama/Temari-craft/blob/images/3rd_before.jpg)

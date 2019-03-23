@@ -1,34 +1,34 @@
-# ŠÂ‚Â‚È‚¬‚Ì”~
-[ƒIƒŠƒ€ƒpƒX»ãN_ƒIƒŠƒWƒiƒ‹è‚Ü‚èƒLƒbƒgƒVƒŠ[ƒY_TM-4](https://www.olympus-thread.com/lineup/handicraftkit/threadball/threadballkit/4971451625042.html/)  
-‚ÌŠÂ‚Â‚È‚¬‚Ì”~‚ğ‚Â‚­‚è‚Ü‚·B([amazonw“ü‚Í‚±‚¿‚ç](https://www.amazon.co.jp/dp/B002KLUOWG/ref=asc_df_B002KLUOWG2599934/?tag=jpgo-22&creative=9303&creativeASIN=B002KLUOWG&linkCode=df0&hvadid=218144493981&hvpos=1o2&hvnetw=g&hvrand=15627880556895059398&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1009298&hvtargid=pla-439585006766&th=1&psc=1))  
-[»ìŠJn’n“_‚Ö](https://github.com/Masaki-Okuyama/Temari-craft/blob/master/Temari-diary/2nd-temari-craft.md#%E4%BD%BF%E7%94%A8%E3%81%99%E3%82%8B%E6%89%8B%E3%81%BE%E3%82%8A%E8%8A%AF)
+# ç’°ã¤ãªãã®æ¢…
+[ã‚ªãƒªãƒ ãƒ‘ã‚¹è£½çµ²_ã‚ªãƒªã‚¸ãƒŠãƒ«æ‰‹ã¾ã‚Šã‚­ãƒƒãƒˆã‚·ãƒªãƒ¼ã‚º_TM-4](https://www.olympus-thread.com/lineup/handicraftkit/threadball/threadballkit/4971451625042.html/)  
+ã®ç’°ã¤ãªãã®æ¢…ã‚’ã¤ãã‚Šã¾ã™ã€‚([amazonè³¼å…¥ã¯ã“ã¡ã‚‰](https://www.amazon.co.jp/dp/B002KLUOWG/ref=asc_df_B002KLUOWG2599934/?tag=jpgo-22&creative=9303&creativeASIN=B002KLUOWG&linkCode=df0&hvadid=218144493981&hvpos=1o2&hvnetw=g&hvrand=15627880556895059398&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1009298&hvtargid=pla-439585006766&th=1&psc=1))  
+[è£½ä½œé–‹å§‹åœ°ç‚¹ã¸](https://github.com/Masaki-Okuyama/Temari-craft/blob/master/Temari-diary/2nd-temari-craft.md#%E4%BD%BF%E7%94%A8%E3%81%99%E3%82%8B%E6%89%8B%E3%81%BE%E3%82%8A%E8%8A%AF)
 
-## Š®¬Ê^  
+## å®Œæˆå†™çœŸ  
 ![kantsunagi](https://github.com/Masaki-Okuyama/Temari-craft/blob/images/kantsunagi.jpg)
 
 ## 19-Mar-2019
-ŠÂ‚Â‚È‚¬‚Ì–Í—l‚ğ‚³‚ç‚É‘å‚«‚­‚µA¼‚Ì—t‚Æ”~‚Ì–Í—l‚ğ‰Á‚¦‚ÄI‚í‚èB  
-Š®¬‚µ‚Ü‚µ‚½!  
+ç’°ã¤ãªãã®æ¨¡æ§˜ã‚’ã•ã‚‰ã«å¤§ããã—ã€æ¾ã®è‘‰ã¨æ¢…ã®æ¨¡æ§˜ã‚’åŠ ãˆã¦çµ‚ã‚ã‚Šã€‚  
+å®Œæˆã—ã¾ã—ãŸ!  
 ![20190319](https://github.com/Masaki-Okuyama/Temari-craft/blob/images/20190319.jpg)
 
 ## 18-Mar-2019
-‚¾‚¢‚Ô•¿‚ª‘å‚«‚­‚È‚è‚Ü‚µ‚½B  
+ã ã„ã¶æŸ„ãŒå¤§ãããªã‚Šã¾ã—ãŸã€‚  
 ![20190318](https://github.com/Masaki-Okuyama/Temari-craft/blob/images/20190318.jpg)
 
 ## 15-Mar-2019
-ğ“ú‚Æ•Ï‚í‚Á‚Ä‚¢‚È‚¢‚æ‚¤‚ÉŒ©‚¦‚Ü‚·‚ªA‰©F‚ª‘‚¦‚Ä‚¢‚Ü‚·B  
-ÔF‚Ì…‚ÍØ‚é‚±‚Æ‚É‚È‚Á‚Ä‚µ‚Ü‚¢‚µ‚½B  
+æ˜¨æ—¥ã¨å¤‰ã‚ã£ã¦ã„ãªã„ã‚ˆã†ã«è¦‹ãˆã¾ã™ãŒã€é»„è‰²ãŒå¢—ãˆã¦ã„ã¾ã™ã€‚  
+èµ¤è‰²ã®ç³¸ã¯åˆ‡ã‚‹ã“ã¨ã«ãªã£ã¦ã—ã¾ã„ã—ãŸã€‚  
 ![20190315](https://github.com/Masaki-Okuyama/Temari-craft/blob/images/20190315.jpg)
 
 ## 14-Mar-2019
-‚±‚Ì•¿‚ª1ü‚µ‚Ä‚¢‚Ü‚·B  
-ƒPƒ€ƒŠƒNƒT‚ğŠÏ‚È‚ª‚çì‚Á‚Ä‚¢‚Ü‚·B(—]’k)  
+ã“ã®æŸ„ãŒ1å‘¨ã—ã¦ã„ã¾ã™ã€‚  
+ã‚±ãƒ ãƒªã‚¯ã‚µã‚’è¦³ãªãŒã‚‰ä½œã£ã¦ã„ã¾ã™ã€‚(ä½™è«‡)  
 ![20190314](https://github.com/Masaki-Okuyama/Temari-craft/blob/images/20190314.jpg)
 
 ## 13-Mar-2019
-¡“ú‚Íƒ}ƒ`j‚ğ‘Å‚Â‚Ì‚İI  
-‚Ü‚è‚Í‚ä‚Á‚½‚èì‚Á‚Ä‚¢‚«‚Ü‚·B
+ä»Šæ—¥ã¯ãƒãƒé‡ã‚’æ‰“ã¤ã®ã¿ï¼  
+ã¾ã‚Šã¯ã‚†ã£ãŸã‚Šä½œã£ã¦ã„ãã¾ã™ã€‚
 ![20190313](https://github.com/Masaki-Okuyama/Temari-craft/blob/images/20190313.jpg)
 
-## g—p‚·‚éè‚Ü‚èc
+## ä½¿ç”¨ã™ã‚‹æ‰‹ã¾ã‚ŠèŠ¯
 ![2nd_before](https://github.com/Masaki-Okuyama/Temari-craft/blob/images/2nd_before.jpg)
