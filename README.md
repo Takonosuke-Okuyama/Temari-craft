@@ -13,7 +13,9 @@
 手まりのページは最終更新日が先頭になっているので、時系列順に追いたい人は下から読んでください。  
 用語は[wiki](https://github.com/Masaki-Okuyama/Temari-craft/wiki)を参照してください。(要望があればwiki項目は増やします)
 
-## 制作手まり一覧
+## 制作手まり一覧  
+完成した手まり一覧を見たい人は[こちら](https://github.com/Masaki-Okuyama/Temari-craft/blob/master/Temari-diary/README.md#%E5%AE%8C%E6%88%90%E4%BD%9C%E5%93%81%E4%B8%80%E8%A6%A7)をおしてください  
+
 |   手まり   |  制作開始日  | 制作終了日 |
 |:--------:|:------------:|:----------:|
 |[三羽根亀甲](https://github.com/Masaki-Okuyama/Temari-craft/blob/master/Temari-diary/1st-kemari-craft.md)|  8-Mar-2019 |  12-Mar-2019 |
