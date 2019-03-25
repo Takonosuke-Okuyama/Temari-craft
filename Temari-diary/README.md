@@ -11,5 +11,5 @@
 ## [環つなぎの梅](https://github.com/Masaki-Okuyama/Temari-craft/blob/master/Temari-diary/2nd-temari-craft.md) 
 ![kantsunagi](https://github.com/Masaki-Okuyama/Temari-craft/blob/images/kantsunagi.jpg)
 
-## [ますかがり](https://github.com/Masaki-Okuyama/Temari-craft/blob/master/Temari-diary/2rd-temari-craft.md)
+## [ますかがり](https://github.com/Masaki-Okuyama/Temari-craft/blob/master/Temari-diary/3rd-temari-craft.md)
 ![masukagari](https://github.com/Masaki-Okuyama/Temari-craft/blob/images/masukagari.jpg)
