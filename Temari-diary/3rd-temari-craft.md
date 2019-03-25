@@ -10,7 +10,7 @@
 
 ## 25-Mar-2019
 ますの模様をつくり、茶色の糸でますを囲むようにかがり、完成!  
-![20190325](https://github.com/Masaki-Okuyama/Temari-craft/blob/images/20190325.jpg)
+![20190325](https://github.com/Masaki-Okuyama/Temari-craft/blob/images/20190325_2.jpg)
 
 ## 24-Mar-2019
 昨日から一気に進んで、完成間近。  
