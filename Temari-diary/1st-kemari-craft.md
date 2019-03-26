@@ -6,7 +6,7 @@
 [製作開始日へ](https://github.com/Masaki-Okuyama/Temari-craft/blob/master/Temari-diary/1st-kemari-craft.md#8-mar-2019)
 
 ## 完成写真  
-![mitubane](https://github.com/Masaki-Okuyama/Temari-craft/blob/images/mitubane.jpg)
+![1st_after](https://github.com/Masaki-Okuyama/Temari-craft/blob/images/1st_after.jpg)
 
 ## 12-Mar-2019
 空いている部分の模様をつけ終わり、完成しました!  

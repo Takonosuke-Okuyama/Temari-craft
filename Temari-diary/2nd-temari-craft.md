@@ -6,7 +6,7 @@
 [製作開始地点へ](https://github.com/Masaki-Okuyama/Temari-craft/blob/master/Temari-diary/2nd-temari-craft.md#%E4%BD%BF%E7%94%A8%E3%81%99%E3%82%8B%E6%89%8B%E3%81%BE%E3%82%8A%E8%8A%AF)
 
 ## 完成写真  
-![kantsunagi](https://github.com/Masaki-Okuyama/Temari-craft/blob/images/kantsunagi.jpg)
+![2nd_after](https://github.com/Masaki-Okuyama/Temari-craft/blob/images/2nd_after.jpg)
 
 ## 19-Mar-2019
 環つなぎの模様をさらに大きくし、松の葉と梅の模様を加えて終わり。  

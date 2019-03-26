@@ -6,7 +6,7 @@
 [製作開始地点へ](https://github.com/Masaki-Okuyama/Temari-craft/blob/master/Temari-diary/3rd-temari-craft.md#%E4%BD%BF%E7%94%A8%E3%81%99%E3%82%8B%E6%89%8B%E3%81%BE%E3%82%8A%E8%8A%AF)
 
 ## 完成写真  
-![masukagari](https://github.com/Masaki-Okuyama/Temari-craft/blob/images/masukagari.jpg)
+![3rd_after](https://github.com/Masaki-Okuyama/Temari-craft/blob/images/3rd_after.jpg)
 
 ## 25-Mar-2019
 ますの模様をつくり、茶色の糸でますを囲むようにかがり、完成!  
