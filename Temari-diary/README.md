@@ -13,3 +13,6 @@
 
 ## [ますかがり](https://github.com/Masaki-Okuyama/Temari-craft/blob/master/Temari-diary/3rd-temari-craft.md)
 ![3rd_after](https://github.com/Masaki-Okuyama/Temari-craft/blob/images/3rd_after.jpg)
+
+## [八重咲きの桃](https://github.com/Masaki-Okuyama/Temari-craft/blob/master/Temari-diary/4th-temari-craft.md)
+![4th_after](https://github.com/Masaki-Okuyama/Temari-craft/blob/images/4th_after.jpg)
