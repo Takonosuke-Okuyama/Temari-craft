@@ -4,6 +4,7 @@
 - [三羽根亀甲](https://github.com/Masaki-Okuyama/Temari-craft/blob/master/Temari-diary/README.md#%E4%B8%89%E7%BE%BD%E6%A0%B9%E4%BA%80%E7%94%B2)
 - [環つなぎの梅](https://github.com/Masaki-Okuyama/Temari-craft/blob/master/Temari-diary/README.md#%E7%92%B0%E3%81%A4%E3%81%AA%E3%81%8E%E3%81%AE%E6%A2%85)
 - [ますかがり](https://github.com/Masaki-Okuyama/Temari-craft/blob/master/Temari-diary/README.md#%E3%81%BE%E3%81%99%E3%81%8B%E3%81%8C%E3%82%8A)
+- [八重咲きの桃](https://github.com/Masaki-Okuyama/Temari-craft/blob/master/Temari-diary/README.md#%E5%85%AB%E9%87%8D%E5%92%B2%E3%81%8D%E3%81%AE%E6%A1%83)
 
 ## [三羽根亀甲](https://github.com/Masaki-Okuyama/Temari-craft/blob/master/Temari-diary/1st-kemari-craft.md)  
 ![1st_after](https://github.com/Masaki-Okuyama/Temari-craft/blob/images/1st_after.jpg)
