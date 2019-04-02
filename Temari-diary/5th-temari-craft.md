@@ -6,5 +6,8 @@
 [製作開始地点へ](https://github.com/Masaki-Okuyama/Temari-craft/blob/master/Temari-diary/5th-temari-craft.md#%E4%BD%BF%E7%94%A8%E3%81%99%E3%82%8B%E6%89%8B%E3%81%BE%E3%82%8A%E8%8A%AF)  
 
 
+## 02-Apr-2019
+今日は糸ほどきを途中までしただけなので写真はなしで。  
+
 ## 使用する手まり芯
 ![4th_before](https://github.com/Masaki-Okuyama/Temari-craft/blob/images/5th_before.jpg)
