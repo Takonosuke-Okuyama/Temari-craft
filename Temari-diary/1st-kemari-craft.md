@@ -24,13 +24,13 @@
 三羽根の間のスペースを8等分する金ラメ線も追加しました。  
 ![20190310](https://github.com/Masaki-Okuyama/Temari-craft/blob/images/20190310.jpg)
 
-## 9-Mar-2019
+## 09-Mar-2019
 ユザワヤで必要なものを買い作業開始。  
 といっても今日は準備段階の糸巻きのみ。  
 糸束から糸をほどく時には糸が絡まらないように要注意です。  
 ![20190309](https://github.com/Masaki-Okuyama/Temari-craft/blob/images/20190309.jpg)
 
-## 8-Mar-2019
+## 08-Mar-2019
 キットが届いたが、マチ針などREADMEに書いたものが必要とここで気づきました。  
 気づいた時には近所のユザワヤは閉まっていたので今日は断念。  
 ![20190308](https://github.com/Masaki-Okuyama/Temari-craft/blob/images/20190308.jpg)
