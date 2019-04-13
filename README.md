@@ -1,7 +1,7 @@
 # Temari-craft
 手まりキットを使って手まりを作ります。  
 ## 目次
-- [このリポジトリの読み方](https://github.com/Masaki-Okuyama/Temari-craft/blob/master/README.md#%E3%81%93%E3%81%AE%E3%83%AA%E3%83%9D%E3%82%B8%E3%83%88%E3%83%AA%E3%81%AE%E8%AA%AD%E3%81%BF%E6%96%B9) 
+- [このリポジトリの読み方](https://github.com/Masaki-Okuyama/Temari-craft/blob/master/README.md#%E3%81%93%E3%81%AE%E3%83%AA%E3%83%9D%E3%82%B8%E3%83%88%E3%83%AA%E3%81%AE%E8%AA%AD%E3%81%BF%E6%96%B9)
 - [制作手まり一覧](https://github.com/Masaki-Okuyama/Temari-craft/blob/master/README.md#%E5%88%B6%E4%BD%9C%E6%89%8B%E3%81%BE%E3%82%8A%E4%B8%80%E8%A6%A7)   
 - [手まりキット選び](https://github.com/Masaki-Okuyama/Temari-craft/blob/master/README.md#%E6%89%8B%E3%81%BE%E3%82%8A%E3%82%AD%E3%83%83%E3%83%88%E9%81%B8%E3%81%B3)  
 - [手まりキット以外に必要なもの](https://github.com/Masaki-Okuyama/Temari-craft/blob/master/README.md#%E6%89%8B%E3%81%BE%E3%82%8A%E3%82%AD%E3%83%83%E3%83%88%E4%BB%A5%E5%A4%96%E3%81%AB%E5%BF%85%E8%A6%81%E3%81%AA%E3%82%82%E3%81%AE)  
@@ -23,6 +23,7 @@
 |[ますかがり](https://github.com/Masaki-Okuyama/Temari-craft/blob/master/Temari-diary/3rd-temari-craft.md)|  22-Mar-2019 |  25-Mar-2019 |
 |[八重咲きの桃](https://github.com/Masaki-Okuyama/Temari-craft/blob/master/Temari-diary/4th-temari-craft.md)|  26-Mar-2019 |  31-Mar-2019 |
 |[つむ型クロス](https://github.com/Masaki-Okuyama/Temari-craft/blob/master/Temari-diary/5th-temari-craft.md)|  02-Apr-2019 |  11-Apr-2019 |
+|[八重菊](https://github.com/Masaki-Okuyama/Temari-craft/blob/master/Temari-diary/6th-temari-craft.md)|   |   |
 
 ## 手まりキット選び
 自分が作りたいと思う好きな柄の手まりキットを買いましょう。
@@ -30,7 +31,7 @@
 
 ## 手まりキット以外に必要なもの
 手まりキット以外に必要なものを紹介します。  
-	
+
 #### - パッチワークまち針
 	●---  <-こういう形のやつ  
 	糸を縫うときの目印をつけるのに必要。  
