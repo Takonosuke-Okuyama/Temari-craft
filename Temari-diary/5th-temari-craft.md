@@ -18,4 +18,4 @@
 今日は糸ほどきを途中までしただけなので写真はなしで。  
 
 ## 使用する手まり芯
-![4th_before](https://github.com/Masaki-Okuyama/Temari-craft/blob/images/5th_before.jpg)
+![5th_before](https://github.com/Masaki-Okuyama/Temari-craft/blob/images/5th_before.jpg)
