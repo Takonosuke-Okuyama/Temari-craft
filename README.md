@@ -1,5 +1,6 @@
 # Temari-craft
 手まりキットを使って手まりを作ります。  
+作り方などもまとめられればと思います。
 ## 目次
 - [このリポジトリの読み方](https://github.com/Masaki-Okuyama/Temari-craft/blob/master/README.md#%E3%81%93%E3%81%AE%E3%83%AA%E3%83%9D%E3%82%B8%E3%83%88%E3%83%AA%E3%81%AE%E8%AA%AD%E3%81%BF%E6%96%B9)
 - [制作手まり一覧](https://github.com/Masaki-Okuyama/Temari-craft/blob/master/README.md#%E5%88%B6%E4%BD%9C%E6%89%8B%E3%81%BE%E3%82%8A%E4%B8%80%E8%A6%A7)   
