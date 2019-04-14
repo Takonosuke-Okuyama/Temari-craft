@@ -13,7 +13,7 @@
 ![20190325](https://github.com/Masaki-Okuyama/Temari-craft/blob/images/20190325_2.jpg)
 
 ## 24-Mar-2019
-昨日から一気に進んで、完成間近。  
+昨日から一気に進んで、完成間近です。  
 画像のますの模様が6つ(3色2つづつ)ついています。  
 ![20190324](https://github.com/Masaki-Okuyama/Temari-craft/blob/images/20190324.jpg)
 
