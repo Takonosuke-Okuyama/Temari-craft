@@ -9,7 +9,7 @@
 ![3rd_after](https://github.com/Masaki-Okuyama/Temari-craft/blob/images/3rd_after.jpg)
 
 ## 25-Mar-2019
-ますの模様をつくり、茶色の糸でますを囲むようにかがり、完成!  
+ますの模様をつくり、茶色の糸でますを囲むようにかがり、完成です!  
 ![20190325](https://github.com/Masaki-Okuyama/Temari-craft/blob/images/20190325_2.jpg)
 
 ## 24-Mar-2019
