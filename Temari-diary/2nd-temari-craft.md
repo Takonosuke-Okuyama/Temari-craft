@@ -9,7 +9,7 @@
 ![2nd_after](https://github.com/Masaki-Okuyama/Temari-craft/blob/images/2nd_after.jpg)
 
 ## 19-Mar-2019
-環つなぎの模様をさらに大きくし、松の葉と梅の模様を加えて終わり。  
+環つなぎの模様をさらに大きくし、松の葉と梅の模様を加えて終わりです。  
 完成しました!  
 ![20190319](https://github.com/Masaki-Okuyama/Temari-craft/blob/images/20190319.jpg)
 
