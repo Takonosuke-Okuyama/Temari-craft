@@ -6,11 +6,12 @@
 - [ますかがり](https://github.com/Masaki-Okuyama/Temari-craft/blob/master/Temari-diary/README.md#%E3%81%BE%E3%81%99%E3%81%8B%E3%81%8C%E3%82%8A)
 - [八重咲きの桃](https://github.com/Masaki-Okuyama/Temari-craft/blob/master/Temari-diary/README.md#%E5%85%AB%E9%87%8D%E5%92%B2%E3%81%8D%E3%81%AE%E6%A1%83)
 - [つむ型クロス](https://github.com/Masaki-Okuyama/Temari-craft/blob/master/Temari-diary/README.md#%E3%81%A4%E3%82%80%E5%9E%8B%E3%82%AF%E3%83%AD%E3%82%B9)
+- [八重菊](https://github.com/Masaki-Okuyama/Temari-craft/blob/master/Temari-diary/README.md#%E5%85%AB%E9%87%8D%E8%8F%8A)
 
 ## [三羽根亀甲](https://github.com/Masaki-Okuyama/Temari-craft/blob/master/Temari-diary/1st-kemari-craft.md)  
 ![1st_after](https://github.com/Masaki-Okuyama/Temari-craft/blob/images/1st_after.jpg)
 
-## [環つなぎの梅](https://github.com/Masaki-Okuyama/Temari-craft/blob/master/Temari-diary/2nd-temari-craft.md) 
+## [環つなぎの梅](https://github.com/Masaki-Okuyama/Temari-craft/blob/master/Temari-diary/2nd-temari-craft.md)
 ![2nd_after](https://github.com/Masaki-Okuyama/Temari-craft/blob/images/2nd_after.jpg)
 
 ## [ますかがり](https://github.com/Masaki-Okuyama/Temari-craft/blob/master/Temari-diary/3rd-temari-craft.md)
@@ -21,3 +22,6 @@
 
 ## [つむ型クロス](https://github.com/Masaki-Okuyama/Temari-craft/blob/master/Temari-diary/5th-temari-craft.md)
 ![5th_after](https://github.com/Masaki-Okuyama/Temari-craft/blob/images/5th_after.jpg)
+
+## [八重菊](https://github.com/Masaki-Okuyama/Temari-craft/blob/master/Temari-diary/6th-temari-craft.md)
+![6th_after](https://github.com/Masaki-Okuyama/Temari-craft/blob/images/6th_after.jpg)
