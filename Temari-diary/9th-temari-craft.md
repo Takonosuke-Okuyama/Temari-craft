@@ -5,9 +5,12 @@
 の環つなぎの夜桜をつくります。([amazon購入はこちら](https://www.amazon.co.jp/%E3%82%AA%E3%83%AA%E3%83%A0%E3%83%91%E3%82%B9%E8%A3%BD%E7%B5%B2-Olympus-Thred-TM-5-%E7%92%B0%E3%81%A4%E3%81%AA%E3%81%8E%E3%81%AE%E5%A4%9C%E6%A1%9C/dp/B005PVQN46))  
 [製作開始地点へ](#%E4%BD%BF%E7%94%A8%E3%81%99%E3%82%8B%E6%89%8B%E3%81%BE%E3%82%8A%E8%8A%AF)  
 
-## 20-May-2020
-また作り始めました。  
-![20200320]()
+
+## 完成写真  
+![9th_after](https://github.com/Masaki-Okuyama/Temari-craft/blob/images/9th_after.jpg)
+
+## 12-Apr-2020
+なんかもう色々すっとばして完成!
 
 ## 使用する手まり芯
 ![9th_before](https://github.com/Masaki-Okuyama/Temari-craft/blob/images/9th_before.jpg)

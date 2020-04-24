@@ -33,3 +33,6 @@
 
 ## [一重桜](https://github.com/Masaki-Okuyama/Temari-craft/blob/master/Temari-diary/8th-temari-craft.md)
 ![8th_after](https://github.com/Masaki-Okuyama/Temari-craft/blob/images/8th_after.jpg)
+
+## [環つなぎの夜桜](https://github.com/Masaki-Okuyama/Temari-craft/blob/master/Temari-diary/9th-temari-craft.md)
+![9th_after](https://github.com/Masaki-Okuyama/Temari-craft/blob/images/9th_after.jpg)
