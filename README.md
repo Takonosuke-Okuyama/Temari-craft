@@ -27,7 +27,7 @@
 |[八重菊](https://github.com/Masaki-Okuyama/Temari-craft/blob/master/Temari-diary/6th-temari-craft.md)|  13-Apr-2019 |  17-Apr-2019 |
 |[三つ重ねつむ型](https://github.com/Masaki-Okuyama/Temari-craft/blob/master/Temari-diary/7th-temari-craft.md)|  18-Apr-2019 |  23-Apr-2019 |
 |[一重桜](https://github.com/Masaki-Okuyama/Temari-craft/blob/master/Temari-diary/8th-temari-craft.md)|  01-May-2019 |  02-May-2019 |
-|[環つなぎの夜桜](https://github.com/Masaki-Okuyama/Temari-craft/blob/master/Temari-diary/9th-temari-craft.md)|  18-May-2019 |   |
+|[環つなぎの夜桜](https://github.com/Masaki-Okuyama/Temari-craft/blob/master/Temari-diary/9th-temari-craft.md)|  18-May-2019 |  test |
 
 ## 手まりキット選び
 自分が作りたいと思う好きな柄の手まりキットを買いましょう。
