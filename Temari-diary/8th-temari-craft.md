@@ -1,4 +1,4 @@
-[トップページに戻る](https://github.com/Masaki-Okuyama/Temari-craft/blob/master/README.md#temari-craft)
+[トップページに戻る](./../README.md#temari-craft)
 
 # 一重桜
 [オリムパス製絲_オリジナル手まりキットシリーズ_TM-3](https://www.olympus-thread.com/lineup/handicraftkit/threadball/threadballkit/4971451625035.html/)  

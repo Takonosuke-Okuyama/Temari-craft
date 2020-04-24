@@ -1,4 +1,4 @@
-[トップページに戻る](https://github.com/Masaki-Okuyama/Temari-craft/blob/master/README.md#temari-craft)
+[トップページに戻る](./../README.md#temari-craft)
 
 # 環つなぎの梅
 [オリムパス製絲_オリジナル手まりキットシリーズ_TM-4](https://www.olympus-thread.com/lineup/handicraftkit/threadball/threadballkit/4971451625042.html/)  
