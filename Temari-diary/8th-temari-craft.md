@@ -6,16 +6,16 @@
 [製作開始地点へ](#%E4%BD%BF%E7%94%A8%E3%81%99%E3%82%8B%E6%89%8B%E3%81%BE%E3%82%8A%E8%8A%AF)  
 
 ## 完成写真  
-![8th_after](https://github.com/Masaki-Okuyama/Temari-craft/blob/images/8th_after.jpg)
+<img src="https://github.com/Masaki-Okuyama/Temari-craft/blob/images/8th_after.jpg" alt="8th_after" width="500"/>  
 
 ## 02-May-2019
 反対の極を作ったら、帯かがりをして完成です。  
-![20190502](https://github.com/Masaki-Okuyama/Temari-craft/blob/images/20190502.jpg)
+<img src="https://github.com/Masaki-Okuyama/Temari-craft/blob/images/20190502.jpg" alt="20190502" width="500"/>  
 
 ## 01-May-2019
 途中まで制作。  
 今回の手まりは両方の極を同時に作っていきます。    
-![20190501](https://github.com/Masaki-Okuyama/Temari-craft/blob/images/20190501.jpg)
+<img src="https://github.com/Masaki-Okuyama/Temari-craft/blob/images/20190501.jpg" alt="20190501" width="500"/>  
 
 ## 使用する手まり芯
-![8th_before](https://github.com/Masaki-Okuyama/Temari-craft/blob/images/8th_before.jpg)
+<img src="https://github.com/Masaki-Okuyama/Temari-craft/blob/images/8th_before.jpg" alt="8th_before" width="500"/>  

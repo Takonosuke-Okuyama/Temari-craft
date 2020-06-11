@@ -6,24 +6,24 @@
 [製作開始地点へ](#%E4%BD%BF%E7%94%A8%E3%81%99%E3%82%8B%E6%89%8B%E3%81%BE%E3%82%8A%E8%8A%AF)  
 
 ## 完成写真  
-![3rd_after](https://github.com/Masaki-Okuyama/Temari-craft/blob/images/3rd_after.jpg)
+<img src="https://github.com/Masaki-Okuyama/Temari-craft/blob/images/3rd_after.jpg" alt="3rd_after" width="500"/>  
 
 ## 25-Mar-2019
 ますの模様をつくり、茶色の糸でますを囲むようにかがり、完成です!  
-![20190325](https://github.com/Masaki-Okuyama/Temari-craft/blob/images/20190325_2.jpg)
+<img src="https://github.com/Masaki-Okuyama/Temari-craft/blob/images/20190325_2.jpg" alt="20190325" width="500"/>  
 
 ## 24-Mar-2019
 昨日から一気に進んで、完成間近です。  
 画像のますの模様が6つ(3色2つづつ)ついています。  
-![20190324](https://github.com/Masaki-Okuyama/Temari-craft/blob/images/20190324.jpg)
+<img src="https://github.com/Masaki-Okuyama/Temari-craft/blob/images/20190324.jpg" alt="20190324" width="500"/>  
 
 ## 23-Mar-2019
 ますの小さな模様を3つに増やしました(ますは全部で6つ)。  
-![20190323](https://github.com/Masaki-Okuyama/Temari-craft/blob/images/20190323.jpg)
+<img src="https://github.com/Masaki-Okuyama/Temari-craft/blob/images/20190323.jpg" alt="20190323" width="500"/>  
 
 ## 22-Mar-2019
 1つ目のますの小さな模様に手をつけ終了。  
-![20190322](https://github.com/Masaki-Okuyama/Temari-craft/blob/images/20190322.jpg)
+<img src="https://github.com/Masaki-Okuyama/Temari-craft/blob/images/20190322.jpg" alt="20190322" width="500"/>  
 
 ## 使用する手まり芯
-![3rd_before](https://github.com/Masaki-Okuyama/Temari-craft/blob/images/3rd_before.jpg)
+<img src="https://github.com/Masaki-Okuyama/Temari-craft/blob/images/3rd_before.jpg" alt="3rd_before" width="500"/>  

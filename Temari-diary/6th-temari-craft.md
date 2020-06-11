@@ -6,27 +6,27 @@
 [製作開始地点へ](#%E4%BD%BF%E7%94%A8%E3%81%99%E3%82%8B%E6%89%8B%E3%81%BE%E3%82%8A%E8%8A%AF)  
 
 ## 完成写真
-![6th_after](https://github.com/Masaki-Okuyama/Temari-craft/blob/images/6th_after.jpg)
+<img src="https://github.com/Masaki-Okuyama/Temari-craft/blob/images/6th_after.jpg" alt="6th_after" width="500"/>  
 
 ## 17-Apr-2019
 八重菊を完成させ、帯かがりと松葉かがりをしたら完成です。  
-![20190417](https://github.com/Masaki-Okuyama/Temari-craft/blob/images/20190417.jpg)
+<img src="https://github.com/Masaki-Okuyama/Temari-craft/blob/images/20190417.jpg" alt="20190417" width="500"/>  
 
 ## 16-Apr-2019
 反対側の極の八重菊を途中まで。  
 花が短くならないように注意。  
-![20190416](https://github.com/Masaki-Okuyama/Temari-craft/blob/images/20190416.jpg)
+<img src="https://github.com/Masaki-Okuyama/Temari-craft/blob/images/20190416.jpg" alt="20190416" width="500"/>  
 
 ## 15-Apr-2019
 反対側の極のピン打ちをしました。  
-今日は他にSlackの絵文字を追加したりしたのですが、このリポジトリでは報告できないのが残念です。
-![20190415](https://github.com/Masaki-Okuyama/Temari-craft/blob/images/20190415.jpg)
+今日は他にSlackの絵文字を追加したりしたのですが、このリポジトリでは報告できないのが残念です。  
+<img src="https://github.com/Masaki-Okuyama/Temari-craft/blob/images/20190415.jpg" alt="20190415" width="500"/>  
 
 ## 13-Apr-2019
 八重菊の片方の極を作りました。  
 八重咲きの桃のときの反省をいかして、長めのの花になるように意識しました。  
 手まりとは直接関係ないのですが、このファイルを作る環境整備を行えたので、とても快適で良い気分です。  
-![20190413](https://github.com/Masaki-Okuyama/Temari-craft/blob/images/20190413.jpg)
+<img src="https://github.com/Masaki-Okuyama/Temari-craft/blob/images/20190413.jpg" alt="20190413" width="500"/>  
 
 ## 使用する手まり芯
-![6th_before](https://github.com/Masaki-Okuyama/Temari-craft/blob/images/6th_before.jpg)
+<img src="https://github.com/Masaki-Okuyama/Temari-craft/blob/images/6th_before.jpg" alt="6th_before" width="500"/>  

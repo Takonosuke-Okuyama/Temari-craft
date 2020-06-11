@@ -6,24 +6,24 @@
 [製作開始地点へ](#%E4%BD%BF%E7%94%A8%E3%81%99%E3%82%8B%E6%89%8B%E3%81%BE%E3%82%8A%E8%8A%AF)  
 
 ## 完成写真  
-![7th_after](https://github.com/Masaki-Okuyama/Temari-craft/blob/images/7th_after.jpg)
+<img src="https://github.com/Masaki-Okuyama/Temari-craft/blob/images/7th_after.jpg" alt="7th_after" width="500"/>  
 
 ## 23-Apr-2019
 反対の極を作ったら、帯かがりをして完成です。  
-![20190423](https://github.com/Masaki-Okuyama/Temari-craft/blob/images/20190423.jpg)
+<img src="https://github.com/Masaki-Okuyama/Temari-craft/blob/images/20190423.jpg" alt="20190423" width="500"/>  
 
 ## 21-Apr-2019
 反対の極の途中まで。  
 ~~(写真はあとでのせます。)~~  
-![20190421](https://github.com/Masaki-Okuyama/Temari-craft/blob/images/20190421.jpg)
+<img src="https://github.com/Masaki-Okuyama/Temari-craft/blob/images/20190421.jpg" alt="20190421" width="500"/>  
 
 ## 20-Apr-2019
 片方の極が完成。  
 結構いい感じなのでは？  
-![20190420](https://github.com/Masaki-Okuyama/Temari-craft/blob/images/20190420.jpg)
+<img src="https://github.com/Masaki-Okuyama/Temari-craft/blob/images/20190420.jpg" alt="20190420" width="500"/>  
 
 ## 18-Apr-2019
 今日は糸ほどきを途中までしただけなので写真はなしで。(使い回し)  
 
 ## 使用する手まり芯
-![7th_before](https://github.com/Masaki-Okuyama/Temari-craft/blob/images/7th_before.jpg)
+<img src="https://github.com/Masaki-Okuyama/Temari-craft/blob/images/7th_before.jpg" alt="7th_before" width="500"/>  
