@@ -6,28 +6,28 @@
 [製作開始地点へ](#%E4%BD%BF%E7%94%A8%E3%81%99%E3%82%8B%E6%89%8B%E3%81%BE%E3%82%8A%E8%8A%AF)  
 
 ## 完成写真  
-![4th_after](https://github.com/Masaki-Okuyama/Temari-craft/blob/images/4th_after.jpg)
+<img src="https://github.com/Masaki-Okuyama/Temari-craft/blob/images/4th_after.jpg" alt="4th_after" width="500"/>  
 
 ## 31-Mar-2019
 赤道で帯かがりをし、金ラメの松葉かがりしたら完成です!  
-(小さい桃の花露骨ですね...。)
-![20190331](https://github.com/Masaki-Okuyama/Temari-craft/blob/images/20190331.jpg)
+(小さい桃の花露骨ですね...。)  
+<img src="https://github.com/Masaki-Okuyama/Temari-craft/blob/images/20190331.jpg" alt="20190331" width="500"/>  
 
 ## 30-Mar-2019
 反対の極の桃の花が完成!。  
-![20190330](https://github.com/Masaki-Okuyama/Temari-craft/blob/images/20190330.jpg)
+<img src="https://github.com/Masaki-Okuyama/Temari-craft/blob/images/20190330.jpg" alt="20190330" width="500"/>  
 
 ## 28-Mar-2019
 反対の極の桃の花の下側を作成しました。  
 今度はちゃんとした大きさになっています。  
 (比較の写真がわかりにくい気がしますが...)  
-![20190328](https://github.com/Masaki-Okuyama/Temari-craft/blob/images/20190328.jpg)
+<img src="https://github.com/Masaki-Okuyama/Temari-craft/blob/images/20190328.jpg" alt="20190328" width="500"/>  
 
 ## 26-Mar-2019
 下側の花が小さすぎる!(ということが画像でわかりにくすぎる!)  
 戻しようがないところまでいってから気づいたのでこのまま続行すことに...。  
 横からの画像は今度上げます。  
-![20190326](https://github.com/Masaki-Okuyama/Temari-craft/blob/images/20190326.jpg)
+<img src="https://github.com/Masaki-Okuyama/Temari-craft/blob/images/20190326.jpg" alt="20190326" width="500"/>  
 
 ## 使用する手まり芯
-![4th_before](https://github.com/Masaki-Okuyama/Temari-craft/blob/images/4th_before.jpg)
+<img src="https://github.com/Masaki-Okuyama/Temari-craft/blob/images/4th_before.jpg" alt="4th_before" width="500"/>  
