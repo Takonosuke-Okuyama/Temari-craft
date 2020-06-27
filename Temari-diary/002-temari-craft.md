@@ -6,7 +6,7 @@
 [製作開始地点へ](#%E4%BD%BF%E7%94%A8%E3%81%99%E3%82%8B%E6%89%8B%E3%81%BE%E3%82%8A%E8%8A%AF)  
 
 ## 完成写真  
-<img src="https://github.com/Masaki-Okuyama/Temari-craft/blob/images/2nd_after.jpg" alt="2nd_after" width="500"/>  
+<img src="https://github.com/Masaki-Okuyama/Temari-craft/blob/images/002_after.jpg" alt="002_after" width="500"/>  
 
 ## 19-Mar-2019
 環つなぎの模様をさらに大きくし、松の葉と梅の模様を加えて終わりです。  
@@ -33,4 +33,4 @@
 <img src="https://github.com/Masaki-Okuyama/Temari-craft/blob/images/20190313.jpg" alt="20190313" width="500"/>  
 
 ## 使用する手まり芯
-<img src="https://github.com/Masaki-Okuyama/Temari-craft/blob/images/2nd_before.jpg" alt="2nd_before" width="500"/>  
+<img src="https://github.com/Masaki-Okuyama/Temari-craft/blob/images/002_before.jpg" alt="002_before" width="500"/>  

@@ -7,10 +7,10 @@
 
 
 ## 完成写真  
-<img src="https://github.com/Masaki-Okuyama/Temari-craft/blob/images/9th_after.jpg" alt="9th_after" width="500"/>  
+<img src="https://github.com/Masaki-Okuyama/Temari-craft/blob/images/009_after.jpg" alt="009_after" width="500"/>  
 
 ## 12-Apr-2020
 なんかもう色々すっとばして完成!
 
 ## 使用する手まり芯
-<img src="https://github.com/Masaki-Okuyama/Temari-craft/blob/images/9th_before.jpg" alt="9th_before" width="500"/>  
+<img src="https://github.com/Masaki-Okuyama/Temari-craft/blob/images/009_before.jpg" alt="009_before" width="500"/>  

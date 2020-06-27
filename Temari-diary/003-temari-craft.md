@@ -6,7 +6,7 @@
 [製作開始地点へ](#%E4%BD%BF%E7%94%A8%E3%81%99%E3%82%8B%E6%89%8B%E3%81%BE%E3%82%8A%E8%8A%AF)  
 
 ## 完成写真  
-<img src="https://github.com/Masaki-Okuyama/Temari-craft/blob/images/3rd_after.jpg" alt="3rd_after" width="500"/>  
+<img src="https://github.com/Masaki-Okuyama/Temari-craft/blob/images/003_after.jpg" alt="003_after" width="500"/>  
 
 ## 25-Mar-2019
 ますの模様をつくり、茶色の糸でますを囲むようにかがり、完成です!  
@@ -26,4 +26,4 @@
 <img src="https://github.com/Masaki-Okuyama/Temari-craft/blob/images/20190322.jpg" alt="20190322" width="500"/>  
 
 ## 使用する手まり芯
-<img src="https://github.com/Masaki-Okuyama/Temari-craft/blob/images/3rd_before.jpg" alt="3rd_before" width="500"/>  
+<img src="https://github.com/Masaki-Okuyama/Temari-craft/blob/images/003_before.jpg" alt="003_before" width="500"/>  

@@ -6,7 +6,7 @@
 [製作開始地点へ](#%E4%BD%BF%E7%94%A8%E3%81%99%E3%82%8B%E6%89%8B%E3%81%BE%E3%82%8A%E8%8A%AF)  
 
 ## 完成写真  
-<img src="https://github.com/Masaki-Okuyama/Temari-craft/blob/images/8th_after.jpg" alt="8th_after" width="500"/>  
+<img src="https://github.com/Masaki-Okuyama/Temari-craft/blob/images/008_after.jpg" alt="008_after" width="500"/>  
 
 ## 02-May-2019
 反対の極を作ったら、帯かがりをして完成です。  
@@ -18,4 +18,4 @@
 <img src="https://github.com/Masaki-Okuyama/Temari-craft/blob/images/20190501.jpg" alt="20190501" width="500"/>  
 
 ## 使用する手まり芯
-<img src="https://github.com/Masaki-Okuyama/Temari-craft/blob/images/8th_before.jpg" alt="8th_before" width="500"/>  
+<img src="https://github.com/Masaki-Okuyama/Temari-craft/blob/images/008_before.jpg" alt="008_before" width="500"/>  

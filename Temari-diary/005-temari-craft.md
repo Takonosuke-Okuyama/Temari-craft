@@ -6,7 +6,7 @@
 [製作開始地点へ](#%E4%BD%BF%E7%94%A8%E3%81%99%E3%82%8B%E6%89%8B%E3%81%BE%E3%82%8A%E8%8A%AF)  
 
 ## 完成写真  
-<img src="https://github.com/Masaki-Okuyama/Temari-craft/blob/images/5th_after.jpg" alt="5th_after" width="500"/>  
+<img src="https://github.com/Masaki-Okuyama/Temari-craft/blob/images/005_after.jpg" alt="005_after" width="500"/>  
 
 ## 11-Apr-2019
 色々と用事があったので今日まで制作にとりかかれていなかったのですが、今日ようやく作る始めることができました!  
@@ -18,4 +18,4 @@
 今日は糸ほどきを途中までしただけなので写真はなしで。  
 
 ## 使用する手まり芯
-<img src="https://github.com/Masaki-Okuyama/Temari-craft/blob/images/5th_before.jpg" alt="5th_before" width="500"/>  
+<img src="https://github.com/Masaki-Okuyama/Temari-craft/blob/images/005_before.jpg" alt="00s5_before" width="500"/>  
