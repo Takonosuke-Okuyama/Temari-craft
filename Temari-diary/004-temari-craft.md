@@ -6,7 +6,7 @@
 [製作開始地点へ](#%E4%BD%BF%E7%94%A8%E3%81%99%E3%82%8B%E6%89%8B%E3%81%BE%E3%82%8A%E8%8A%AF)  
 
 ## 完成写真  
-<img src="https://github.com/Masaki-Okuyama/Temari-craft/blob/images/4th_after.jpg" alt="4th_after" width="500"/>  
+<img src="https://github.com/Masaki-Okuyama/Temari-craft/blob/images/004_after.jpg" alt="004_after" width="500"/>  
 
 ## 31-Mar-2019
 赤道で帯かがりをし、金ラメの松葉かがりしたら完成です!  
@@ -30,4 +30,4 @@
 <img src="https://github.com/Masaki-Okuyama/Temari-craft/blob/images/20190326.jpg" alt="20190326" width="500"/>  
 
 ## 使用する手まり芯
-<img src="https://github.com/Masaki-Okuyama/Temari-craft/blob/images/4th_before.jpg" alt="4th_before" width="500"/>  
+<img src="https://github.com/Masaki-Okuyama/Temari-craft/blob/images/004_before.jpg" alt="004_before" width="500"/>  

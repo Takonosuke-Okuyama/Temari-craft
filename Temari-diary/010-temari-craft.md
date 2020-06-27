@@ -7,7 +7,7 @@
 
 
 ## 完成写真  
-<img src="https://github.com/Masaki-Okuyama/Temari-craft/blob/images/10th_after.jpg" alt="10th_after" width="500"/>  
+<img src="https://github.com/Masaki-Okuyama/Temari-craft/blob/images/010_after.jpg" alt="010_after" width="500"/>  
 
 ## 22-Jun-2020
 もう片側の花弁を二重にして、間の松葉かがりを作って完成です。  

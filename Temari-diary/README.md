@@ -12,32 +12,32 @@
 - [環つなぎの夜桜](#%E7%92%B0%E3%81%A4%E3%81%AA%E3%81%8E%E3%81%AE%E5%A4%9C%E6%A1%9C)
 - [鉄線花](#%E9%89%84%E7%B7%9A%E8%8A%B1)
 
-## [三羽根亀甲](./1st-kemari-craft.md)  
-<img src="https://github.com/Masaki-Okuyama/Temari-craft/blob/images/1st_after.jpg" alt="1st_afterg" width="500"/>  
+## [三羽根亀甲](./001-temari-craft.md)  
+<img src="https://github.com/Masaki-Okuyama/Temari-craft/blob/images/001_after.jpg" alt="001_afterg" width="500"/>  
 
-## [環つなぎの梅](./2nd-temari-craft.md)
-<img src="https://github.com/Masaki-Okuyama/Temari-craft/blob/images/2nd_after.jpg" alt="2nd_after" width="500"/>  
+## [環つなぎの梅](./002-temari-craft.md)
+<img src="https://github.com/Masaki-Okuyama/Temari-craft/blob/images/002_after.jpg" alt="002_after" width="500"/>  
 
-## [ますかがり](./3rd-temari-craft.md)
-<img src="https://github.com/Masaki-Okuyama/Temari-craft/blob/images/3rd_after.jpg" alt="3rd_after" width="500"/>  
+## [ますかがり](./003-temari-craft.md)
+<img src="https://github.com/Masaki-Okuyama/Temari-craft/blob/images/003_after.jpg" alt="003_after" width="500"/>  
 
-## [八重咲きの桃](./4th-temari-craft.md)
-<img src="https://github.com/Masaki-Okuyama/Temari-craft/blob/images/4th_after.jpg" alt="4th_after" width="500"/>  
+## [八重咲きの桃](./004-temari-craft.md)
+<img src="https://github.com/Masaki-Okuyama/Temari-craft/blob/images/004_after.jpg" alt="004_after" width="500"/>  
 
-## [つむ型クロス](./5th-temari-craft.md)
-<img src="https://github.com/Masaki-Okuyama/Temari-craft/blob/images/5th_after.jpg" alt="5th_after" width="500"/>  
+## [つむ型クロス](./005-temari-craft.md)
+<img src="https://github.com/Masaki-Okuyama/Temari-craft/blob/images/005_after.jpg" alt="005_after" width="500"/>  
 
-## [八重菊](./6th-temari-craft.md)
-<img src="https://github.com/Masaki-Okuyama/Temari-craft/blob/images/6th_after.jpg" alt="6th_after" width="500"/>  
+## [八重菊](./006-temari-craft.md)
+<img src="https://github.com/Masaki-Okuyama/Temari-craft/blob/images/006_after.jpg" alt="006_after" width="500"/>  
 
-## [三つ重ねつむ型](./7th-temari-craft.md)
-<img src="https://github.com/Masaki-Okuyama/Temari-craft/blob/images/7th_after.jpg" alt="7th_after" width="500"/>  
+## [三つ重ねつむ型](./007-temari-craft.md)
+<img src="https://github.com/Masaki-Okuyama/Temari-craft/blob/images/007_after.jpg" alt="007_after" width="500"/>  
 
-## [一重桜](./8th-temari-craft.md)
-<img src="https://github.com/Masaki-Okuyama/Temari-craft/blob/images/8th_after.jpg" alt="8th_after" width="500"/>  
+## [一重桜](./008-temari-craft.md)
+<img src="https://github.com/Masaki-Okuyama/Temari-craft/blob/images/008_after.jpg" alt="008_after" width="500"/>  
 
-## [環つなぎの夜桜](./9th-temari-craft.md)
-<img src="https://github.com/Masaki-Okuyama/Temari-craft/blob/images/9th_after.jpg" alt="9th_after" width="500"/>  
+## [環つなぎの夜桜](./009-temari-craft.md)
+<img src="https://github.com/Masaki-Okuyama/Temari-craft/blob/images/009_after.jpg" alt="009_after" width="500"/>  
 
-## [鉄線花](./10th-temari-craft.md)
-<img src="https://github.com/Masaki-Okuyama/Temari-craft/blob/images/10th_after.jpg" alt="10th_after" width="500"/>  
+## [鉄線花](./010-temari-craft.md)
+<img src="https://github.com/Masaki-Okuyama/Temari-craft/blob/images/010_after.jpg" alt="010_after" width="500"/>  

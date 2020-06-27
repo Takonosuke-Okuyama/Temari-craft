@@ -19,20 +19,20 @@
 
 |   手まり   |  制作開始日  | 制作終了日 |
 |:--------:|:------------:|:----------:|
-|[三羽根亀甲](./Temari-diary/1st-kemari-craft.md)|  08-Mar-2019 |  12-Mar-2019 |
-|[環つなぎの梅](./Temari-diary/2nd-temari-craft.md)|  13-Mar-2019 |  19-Mar-2019 |
-|[ますかがり](./Temari-diary/3rd-temari-craft.md)|  22-Mar-2019 |  25-Mar-2019 |
-|[八重咲きの桃](./Temari-diary/4th-temari-craft.md)|  26-Mar-2019 |  31-Mar-2019 |
-|[つむ型クロス](./Temari-diary/5th-temari-craft.md)|  02-Apr-2019 |  11-Apr-2019 |
-|[八重菊](./Temari-diary/6th-temari-craft.md)|  13-Apr-2019 |  17-Apr-2019 |
-|[三つ重ねつむ型](./Temari-diary/7th-temari-craft.md)|  18-Apr-2019 |  23-Apr-2019 |
-|[一重桜](./Temari-diary/8th-temari-craft.md)|  01-May-2019 |  02-May-2019 |
-|[環つなぎの夜桜](./Temari-diary/9th-temari-craft.md)|  18-May-2019 |  12-Apr-2020 |
-|[鉄線花](./Temari-diary/10th-temari-craft.md)|  19-May-2020 |  22-Jun-2020 |
+|[三羽根亀甲](./Temari-diary/001-temari-craft.md)|  08-Mar-2019 |  12-Mar-2019 |
+|[環つなぎの梅](./Temari-diary/002-temari-craft.md)|  13-Mar-2019 |  19-Mar-2019 |
+|[ますかがり](./Temari-diary/003-temari-craft.md)|  22-Mar-2019 |  25-Mar-2019 |
+|[八重咲きの桃](./Temari-diary/004-temari-craft.md)|  26-Mar-2019 |  31-Mar-2019 |
+|[つむ型クロス](./Temari-diary/005-temari-craft.md)|  02-Apr-2019 |  11-Apr-2019 |
+|[八重菊](./Temari-diary/006-temari-craft.md)|  13-Apr-2019 |  17-Apr-2019 |
+|[三つ重ねつむ型](./Temari-diary/007-temari-craft.md)|  18-Apr-2019 |  23-Apr-2019 |
+|[一重桜](./Temari-diary/008-temari-craft.md)|  01-May-2019 |  02-May-2019 |
+|[環つなぎの夜桜](./Temari-diary/009-temari-craft.md)|  18-May-2019 |  12-Apr-2020 |
+|[鉄線花](./Temari-diary/010-temari-craft.md)|  19-May-2020 |  22-Jun-2020 |
 
 ## 手まりキット選び
-自分が作りたいと思う好きな柄の手まりキットを買いましょう。
-はやく買いましょう。
+自分が作りたいと思う好きな柄の手まりキットを買いましょう。  
+はやく買いましょう。  
 
 ## 手まりキット以外に必要なもの
 手まりキット以外に必要なものを紹介します。  

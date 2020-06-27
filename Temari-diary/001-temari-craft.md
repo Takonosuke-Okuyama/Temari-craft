@@ -6,7 +6,7 @@
 [製作開始日へ](#8-mar-2019)  
 
 ## 完成写真  
-<img src="https://github.com/Masaki-Okuyama/Temari-craft/blob/images/1st_after.jpg" alt="1st_afterg" width="500"/>  
+<img src="https://github.com/Masaki-Okuyama/Temari-craft/blob/images/001_after.jpg" alt="001_afterg" width="500"/>  
 
 ## 12-Mar-2019
 空いている部分の模様をつけ終わり、完成しました!  
