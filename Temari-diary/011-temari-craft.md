@@ -11,7 +11,6 @@
 
 ## 21-Jul-2020
 完成です。  
-<img src="https://github.com/Masaki-Okuyama/Temari-craft/blob/images/20200721.jpg" alt="20200721" width="500"/>  
 
 ## 19-Jul-2020
 水仙の花をさらに作成。  
@@ -26,5 +25,5 @@
 <img src="https://github.com/Masaki-Okuyama/Temari-craft/blob/images/20200713.jpg" alt="20200713" width="500"/>  
 
 ## 使用するてまり芯
-白地の4等分てまり芯を使っていきます。
+白地の4等分てまり芯を使っていきます。  
 <img src="https://github.com/Masaki-Okuyama/Temari-craft/blob/images/011_before.jpg" alt="011_brfore" width="500"/>  
